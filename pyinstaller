@@ -1,0 +1,3 @@
+!pip install pyinstaller
+
+pyinstaller --onefile --windowed simple_app.py
